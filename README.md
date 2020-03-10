@@ -8,7 +8,7 @@ Aim of the project is to set up a proof concept of Li-Fi.
 3    Availability: Due to the use of LED bulbs, LiFi can be made available everywhere by replacing traditional LED bulbs with LiFi compatible bulbs.
 4    Security: Since LiFi makes use of visible light spectrum, it cannot penetrate through optically opaque objects like walls making it difficult for unauthorised access unlike present WiFi which could be accessed from beyond walls and making it vulnerable to unauthorised access.
 
-#Disadvantages of LiFi:
+# Disadvantages of LiFi:
 
 1    Internet cannot be used without a light source.
 2    A whole new infrastructure for Li-Fi would need to be constructed.
